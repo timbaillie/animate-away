@@ -1,2 +1,2 @@
 # animate-away
-messing around with css animation
+messing around with css animation & learning to use atom
